@@ -2,6 +2,7 @@
 
 ## Description
 
+This text editor application is a PWA that lets users write and save data. The page can be downloaded and used offline.
 
 ## Table of Contents 
 
@@ -24,10 +25,14 @@
 
 ## Installation
 
+**Installation only required for offline use**
+
+At the top of the [application](https://jate-45o7.onrender.com/) hit the install button at the top of the page and hit 'OK' to confirm
  
 
 ## Usage
 
+Type in text editor. When you leave your data will be saved.
  
 
 ## License
@@ -45,6 +50,6 @@
 
 ## Deployment
 
-  Deployment page: 
+  Deployment page: https://jate-45o7.onrender.com/
   
   Repository: https://github.com/Kal-a11y/text-editor
